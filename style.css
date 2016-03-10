@@ -1,0 +1,38 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
+
+body{
+  font-family: "Montserrat"
+}
+
+body{
+  font-size: 32px
+}
+
+#para1{
+  font-weight: 100;
+  font-family: "Georgia",serif;
+}
+
+#para2{
+  font-weight: 300;
+  font-family: sans-serif;
+}
+
+#para3{
+  font-weight: 700;
+  font-family: monospace;
+}
+
+  #para4{
+    font-weight: 900;
+    font-family: cursive;
+  }
+
+h2{font-family: "Montserrat"
+
+}
+
+h3{
+  font-family: "Montserrat"
+
+}

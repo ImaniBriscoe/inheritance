@@ -1,0 +1,1 @@
+when floating right or left the divs stay in place
